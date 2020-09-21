@@ -1,4 +1,8 @@
-# sandbox project
+# Quarkus sandbox project
+
+![Java CI with Maven](https://github.com/shermende/dev.shermende.quarkus.sandbox/workflows/Java%20CI%20with%20Maven/badge.svg?branch=develop)
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=shermende_dev.shermende.quarkus.sandbox)](https://sonarcloud.io/dashboard?id=shermende_dev.shermende.quarkus.sandbox)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
